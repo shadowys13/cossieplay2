@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Test</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../Try.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div id="Banner"><strong>C o s s i e p l a y</strong></div><div id="Nav_Bar"><a href="../index.html">Home</a>  <a href="../AboutUs.html">About us</a>  <a href="../Announcements.html">Announcements</a>  <a href="../Links.html">Links</a>  <a href="../PartyGuide.html">Party guide</a>  <a href="../Signup.html">Sign up</a></div>
+  <!-- TemplateBeginEditable name="image" -->
+  <div id="image">image</div>
+  <!-- TemplateEndEditable -->
+  <div><!-- TemplateBeginEditable name="Main_Content" -->
+<div id="Main_Content">Main_Content</div>
+<!-- TemplateEndEditable --></div>
+<div id="Footer">***Contact Number : 07 4771 1234           ***Fax : 07-4771 1235  ***Address : 4 Stanton Avenue, Hulkstwon ***Email : cossieplay@ gmail.com</div>
+</body>
+</html>

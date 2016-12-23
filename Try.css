@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* ID Selectors */
+
+#Banner{
+	text-align: center;
+	background-color: #849798;
+	margin-top: 10px;
+	font-size: 70px;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	color:#D98B8D;
+}
+
+#Nav_Bar{
+	text-align: center;
+	background-color: #849789;
+	margin-top: 5px;
+	font-size: 30px;
+	color:#D2A8E8;
+	font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+}
+
+#image{
+	text-align: center;
+	margin-top: 15px;
+}
+
+#Main_Content{
+	text-align:center;
+	background-color:#849798;
+	margin-top:10px;
+	font-size: 25px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	
+}
+
+#Footer{
+	text-align: center;
+	background-color: #9DAC97;
+	margin-top: 250px;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	font-size:20px;
+	
+}
+
+/* tag selectors */
+
+Body{
+	background-color: #58A08F;
+}
